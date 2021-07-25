@@ -3,7 +3,7 @@ Logitravel desea enviar a sus clientes un e-mail o sms, según los datos y prefe
 
 ● Diagrama de clases necesario para llevar a cabo una implementación del escenario anterior:
 
-![Prueba Logitravel (1)](https://user-images.githubusercontent.com/44347390/126870694-6ac43d58-4a05-444a-a76e-52f2b7978e96.png)
+![Prueba Logitravel (2)](https://user-images.githubusercontent.com/44347390/126896177-ce7b044d-d6f7-449e-bbe6-0c4caf1dee45.png)
 
 ● Proyecto con implementación en C#.
 
@@ -37,6 +37,8 @@ La diferencia es que uno necesita de un teléfono para hacer el envío y el otro
 En TestPruebaLogi se ha hecho una prueba para comprobar que se devuelven correctamente los hoteles.
 
 # ANOTACIONES
+
+**No se ha creado la clase reserva para simplificar el programa.**
 
 La ejecución de la solución hace una llamada y muestra en el navegador al darle a ejecutar los Mensajes impresos por pantalla, también puede verse desde la consola de Visual Studio.
 
